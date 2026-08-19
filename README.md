@@ -1,47 +1,112 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================================================== -->
+<!--                 GITHUB PROFILE README                 -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# 👋 Hey, I'm YOUR_NAME
+# 👋 Hey, I'm **YOUR NAME**
 
-### 🚀 Builder • Developer • Learner • Creator
+### Building ideas into products • Exploring technology • Learning every day
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+matter+%F0%9F%9A%80;Turning+ideas+into+real+products+%F0%9F%92%A1;Learning+something+new+every+day+%F0%9F%93%9A;Code.+Create.+Experiment.+Repeat.+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+real+projects;Exploring+AI%2C+software%2C+and+the+future;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A0A0A?style=for-the-badge" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile views" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=111827" alt="Followers" />
+</a>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+## 🚀 About Me
 
-## 🧠 About Me
+I'm a curious builder who enjoys turning **ideas into useful things**.
+
+I'm interested in the intersection of:
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 💻 **Software Development**
+- 🌐 **Web & Application Development**
+- 🧠 **Problem Solving & Computer Science**
+- 📊 **Data, Automation & Systems**
+- 🎨 **Product Design & User Experience**
+- 🚀 **Startups, Innovation & Technology**
+- 📚 **Continuous Learning**
+
+I enjoy going from:
+
+> **Idea → Experiment → Build → Break → Improve → Ship**
+
+---
+
+## 🧭 What I'm Exploring
+
+<div align="center">
+
+| 🔥 Area | 🎯 Focus |
+|---|---|
+| 🤖 AI | Intelligent applications, LLMs, automation |
+| 💻 Development | Building scalable and useful software |
+| 🌐 Web | Modern full-stack applications |
+| 📊 Data | Analytics, visualization, and insights |
+| ⚙️ Automation | Making repetitive work disappear |
+| 🧠 CS | Algorithms, systems, architecture |
+| 🚀 Products | Turning technical ideas into real products |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,bash" />
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind" />
+</p>
+
+### 🤖 AI / Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase,aws,gcp" />
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
+</p>
+
+> Replace the icons above with the technologies you actually use.
+
+---
+
+# 🧠 My Developer Philosophy
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👨‍💻 Developer                                               │
-│  🚀 Product Builder                                          │
-│  🧠 Constant Learner                                         │
-│  💡 Problem Solver                                           │
-│  🎨 Interested in great developer experiences                │
-│                                                              │
-│  I enjoy turning ideas into useful, scalable and              │
-│  visually polished products.                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   Learn → Build → Fail → Understand → Improve     │
+│                                                    │
+│   Don't just consume technology.                  │
+│   Build with it.                                   │
+│                                                    │
+└────────────────────────────────────────────────────┘
