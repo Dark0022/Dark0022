@@ -1,10 +1,6 @@
-<!-- ===================================================== -->
-<!--                 GITHUB PROFILE README                 -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm **YOUR NAME**
+# 👋 Hey, I'm **Dhruv**
 
 ### Building ideas into products • Exploring technology • Learning every day
 
@@ -74,7 +70,7 @@ I enjoy going from:
 ### ⚡ Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
 </p>
 
 ### 🤖 AI / Data
