@@ -133,20 +133,6 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 <a href="https://github.com/Dark0022">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dark0022&show_icons=true&hide_border=true&theme=transparent&title_color=9CA8FF&icon_color=818CF8&text_color=C7D2FE&rank_icon=github" height="170"/>
-
-</a>
-
-<a href="https://github.com/Dark0022?tab=repositories">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark0022&layout=compact&hide_border=true&theme=transparent&title_color=9CA8FF&text_color=C7D2FE" height="170"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Dark0022">
-
 <img src="https://streak-stats.demolab.com?user=Dark0022&theme=transparent&hide_border=true&ring=6366F1&fire=9CA8FF&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </a>
