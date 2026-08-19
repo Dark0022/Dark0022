@@ -113,21 +113,77 @@ I enjoy going beyond just using technology — I want to understand the systems 
 
 </div>
 
-### Areas I'm Exploring
+# 🧠 AREAS I'M EXPLORING
 
-```text
-CYBERSECURITY       ████████████████░░░░
-AI / ML             ███████████████░░░░░
-HARDWARE            ██████████████░░░░░░
-SYSTEMS             █████████████░░░░░░░
-SPACE TECHNOLOGY    ███████████░░░░░░░░░
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> The stack keeps evolving.
-> The goal isn't collecting technologies — it's learning how to use them to build meaningful systems.
+### 🛡️ CYBERSECURITY
+
+Building security tools, learning vulnerability analysis, and understanding how systems fail.
+
+`████████████████░░░░` **80%**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+
+Exploring intelligent systems, machine learning, and practical AI applications.
+
+`███████████████░░░░░` **75%**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ HARDWARE
+
+Learning how software interacts with electronics, embedded systems, and physical infrastructure.
+
+`██████████████░░░░░░` **70%**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 SYSTEMS
+
+Interested in architecture, reliability, security, automation, and how complex systems connect.
+
+`█████████████░░░░░░░` **65%**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SPACE TECHNOLOGY
+
+Exploring the engineering and computing challenges behind technology beyond Earth.
+
+`███████████░░░░░░░░░` **55%**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 BUILDING
+
+Learning by turning ideas into experiments and experiments into working systems.
+
+`█████████████████░░░` **85%**
+
+</td>
+</tr>
+</table>
 
 ---
-
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
@@ -180,131 +236,7 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 </div>
 
----
 
-# 🛰️ AEGIS
-
-## `Authenticated Evidence & Governance for Institutional Signals`
-
-### ⚠️ CURRENTLY BUILDING
-
-AEGIS is my current project exploring how **institutional signals and evidence can be authenticated, preserved, and governed**.
-
-The idea sits at the intersection of:
-
-```text
-AUTHENTICATION
-      │
-      ▼
-   EVIDENCE
-      │
-      ▼
-   SIGNALS
-      │
-      ▼
-  GOVERNANCE
-      │
-      ▼
-TRUSTWORTHY SYSTEMS
-```
-
-### Current Direction
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  CORE CONCEPT              ███████████████░░░░░  ACTIVE      │
-│  ARCHITECTURE              █████████████░░░░░░░  EVOLVING    │
-│  SECURITY MODEL            ████████████░░░░░░░░  EXPLORING   │
-│  EVIDENCE PIPELINE         ██████████░░░░░░░░░░  BUILDING    │
-│  GOVERNANCE LAYER          ████████░░░░░░░░░░░░  RESEARCHING │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> **Build the system.**  
-> **Authenticate the signal.**  
-> **Preserve the evidence.**
-
----
-
-# 🧠 HOW I THINK ABOUT BUILDING
-
-```text
-                         ┌─────────────────┐
-                         │     PROBLEM     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   UNDERSTAND    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │   EXPERIMENT    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      BUILD      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    BREAK IT     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    IMPROVE      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      SHIP       │
-                         └─────────────────┘
-```
-
-I don't want to only **use technology**.
-
-I want to understand it deeply enough to **build systems around it**.
-
----
-
-# 🌌 THE BIGGER PICTURE
-
-My interests might look broad:
-
-**Hardware. Cybersecurity. AI/ML. Hacking. Space.**
-
-But there is a common thread.
-
-I'm interested in **systems**.
-
-```text
-                         ┌───────────────┐
-                         │   HARDWARE    │
-                         └───────┬───────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-             ▼                   ▼                   ▼
-        SECURITY                AI/ML            SPACE TECH
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    SYSTEMS    │
-                         └───────────────┘
-```
-
-The long-term goal isn't necessarily one title.
-
-It's becoming someone who can move between **hardware, software, security, intelligence and real-world systems**.
-
----
 
 # 🧪 CURRENTLY IN THE LAB
 
@@ -322,38 +254,60 @@ It's becoming someone who can move between **hardware, software, security, intel
 </div>
 
 ---
-
 # 📡 GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dark0022&show_icons=true&hide_border=true&bg_color=0B1020&title_color=9CA8FF&icon_color=818CF8&text_color=C7D2FE&ring_color=6366F1&rank_icon=github"/>
+<a href="https://github.com/Darkf0022">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark0022&layout=compact&hide_border=true&bg_color=0B1020&title_color=9CA8FF&text_color=C7D2FE"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Darkf0022&show_icons=true&hide_border=true&theme=transparent&title_color=9CA8FF&icon_color=818CF8&text_color=C7D2FE&rank_icon=github" height="170"/>
+
+</a>
+
+<a href="https://github.com/Darkf0022?tab=repositories">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkf0022&layout=compact&hide_border=true&theme=transparent&title_color=9CA8FF&text_color=C7D2FE" height="170"/>
+
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Dark0022&hide_border=true&background=0B1020&ring=6366F1&fire=9CA8FF&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<a href="https://github.com/Darkf0022">
+
+<img src="https://streak-stats.demolab.com?user=Darkf0022&theme=transparent&hide_border=true&ring=6366F1&fire=9CA8FF&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</a>
 
 </div>
 
----
 
 # 📈 ACTIVITY SIGNAL
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark0022&bg_color=0B1020&color=C7D2FE&line=6366F1&point=9CA8FF&area=true&hide_border=true" width="95%"/>
+<a href="https://github.com/Darkf0022">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkf0022&bg_color=0B1020&color=C7D2FE&line=6366F1&point=9CA8FF&area=true&hide_border=true&custom_title=Dhruv's%20GitHub%20Activity" width="95%"/>
+
+</a>
 
 </div>
-
----
 
 # 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dark0022/Dark0022/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+### Contributions are the real telemetry.
+
+<a href="https://github.com/Darkf0022">
+
+<img src="https://ghchart.rshah.org/6366F1/Darkf0022" alt="Darkf0022 GitHub contribution chart" width="90%"/>
+
+</a>
+
+<br/><br/>
+
+`BUILD` &nbsp; `BREAK` &nbsp; `LEARN` &nbsp; `REPEAT`
 
 </div>
 
