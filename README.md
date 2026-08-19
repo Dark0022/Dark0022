@@ -172,19 +172,17 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 ### Contributions are the real telemetry.
 
-<a href="https://github.com/Dark0022">
-
-<img src="https://ghchart.rshah.org/6366F1/Dark0022" alt="Dark0022 GitHub contribution chart" width="90%"/>
-
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/><br/>
 
 `BUILD` &nbsp; `BREAK` &nbsp; `LEARN` &nbsp; `REPEAT`
 
 </div>
-
----
 
 # 💬 CONNECT
 
