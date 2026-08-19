@@ -168,34 +168,24 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 # 🐍 CONTRIBUTION MATRIX
 
-
 <div align="center">
 
 ### Contributions are the real telemetry.
 
-<a href="https://github.com/Darkf0022">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake.svg">
 
-<img src="https://ghchart.rshah.org/6366F1/Darkf0022" alt="Darkf0022 GitHub contribution chart" width="90%"/>
-
-</a>
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Dark0022/Dark0022/output/github-contribution-grid-snake.svg"
+    width="90%"
+  />
+</picture>
 
 <br/><br/>
 
 `BUILD` &nbsp; `BREAK` &nbsp; `LEARN` &nbsp; `REPEAT`
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Dark0022/Dark0022/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
 
 </div>
 
