@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B14,45:111827,75:312E81,100:4C1D95&text=DHRUV&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=ECE%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20SPACE&descAlignY=63&descSize=15&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9CA8FF&center=true&vCenter=true&width=900&lines=ECE+Student+%7C+Builder+%7C+Security+Enthusiast;Exploring+Cybersecurity%2C+AI%2C+ML%2C+Hardware+%26+Space+Tech;Building+systems+where+software+meets+the+real+world;Understand+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9CA8FF&center=true&vCenter=true&width=900&lines=Electronics+%7C+Builder+%7C+Security+Enthusiast;Exploring+Cybersecurity%2C+AI%2C+ML%2C+Hardware+%26+Space+Tech;Building+systems+where+software+meets+the+real+world;Understand+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve"/>
 
 <br/>
 
@@ -24,19 +24,6 @@
 
 </div>
 
----
-
-## ◈ WHO AM I?
-
-I'm **Dhruv**, an **Electronics student** interested in the intersection of **Hardware, Cybersecurity, AI/ML, Malwares, and Games**.
-
-I enjoy going beyond just using technology — I want to understand the systems underneath it, experiment with them, break assumptions, and build things of my own.
-
-> **Understand the system.**  
-> **Break the assumptions.**  
-> **Build something better.**
-
----
 
 ## ◉ INTERESTS
 
@@ -51,49 +38,6 @@ I enjoy going beyond just using technology — I want to understand the systems 
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="180">
-
-### ⚡
-
-**Hardware**
-
-</td>
-
-<td align="center" width="180">
-
-### 🛡️
-
-**Cybersecurity**
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-
-**AI / ML**
-
-</td>
-
-<td align="center" width="180">
-
-### 🚀
-
-**Space Tech**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 # ⌁ TECH STACK
 
@@ -113,77 +57,6 @@ I enjoy going beyond just using technology — I want to understand the systems 
 
 </div>
 
-# 🧠 AREAS I'M EXPLORING
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ CYBERSECURITY
-
-Building security tools, learning vulnerability analysis, and understanding how systems fail.
-
-`████████████████░░░░` **80%**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI / ML
-
-Exploring intelligent systems, machine learning, and practical AI applications.
-
-`███████████████░░░░░` **75%**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ HARDWARE
-
-Learning how software interacts with electronics, embedded systems, and physical infrastructure.
-
-`██████████████░░░░░░` **70%**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 SYSTEMS
-
-Interested in architecture, reliability, security, automation, and how complex systems connect.
-
-`█████████████░░░░░░░` **65%**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 SPACE TECHNOLOGY
-
-Exploring the engineering and computing challenges behind technology beyond Earth.
-
-`███████████░░░░░░░░░` **55%**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 BUILDING
-
-Learning by turning ideas into experiments and experiments into working systems.
-
-`█████████████████░░░` **85%**
-
-</td>
-</tr>
-</table>
-
----
 # 🚀 FEATURED PROJECTS
 
 <div align="center">
@@ -331,14 +204,14 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 <div align="center">
 
-### `DARKF0022`
+### `DARK0022`
 
-**ECE • HARDWARE • CYBERSECURITY • AI/ML • SPACE**
+**ELECTRONICS • HARDWARE • CYBERSECURITY • AI/ML • SPACE**
 
 <br/>
 
-> *The destination can change.*  
-> *The curiosity shouldn't.*
+> **The destination can change.**  
+> **The curiosity shouldn't.**
 
 <br/>
 
