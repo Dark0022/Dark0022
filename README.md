@@ -258,23 +258,23 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 <div align="center">
 
-<a href="https://github.com/Darkf0022">
+<a href="https://github.com/Dark0022">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darkf0022&show_icons=true&hide_border=true&theme=transparent&title_color=9CA8FF&icon_color=818CF8&text_color=C7D2FE&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dark0022&show_icons=true&hide_border=true&theme=transparent&title_color=9CA8FF&icon_color=818CF8&text_color=C7D2FE&rank_icon=github" height="170"/>
 
 </a>
 
-<a href="https://github.com/Darkf0022?tab=repositories">
+<a href="https://github.com/Dark0022?tab=repositories">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkf0022&layout=compact&hide_border=true&theme=transparent&title_color=9CA8FF&text_color=C7D2FE" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark0022&layout=compact&hide_border=true&theme=transparent&title_color=9CA8FF&text_color=C7D2FE" height="170"/>
 
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Darkf0022">
+<a href="https://github.com/Dark0022">
 
-<img src="https://streak-stats.demolab.com?user=Darkf0022&theme=transparent&hide_border=true&ring=6366F1&fire=9CA8FF&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=Dark0022&theme=transparent&hide_border=true&ring=6366F1&fire=9CA8FF&currStreakLabel=C7D2FE&sideLabels=C7D2FE&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </a>
 
@@ -285,9 +285,9 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 <div align="center">
 
-<a href="https://github.com/Darkf0022">
+<a href="https://github.com/Dark0022">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darkf0022&bg_color=0B1020&color=C7D2FE&line=6366F1&point=9CA8FF&area=true&hide_border=true&custom_title=Dhruv's%20GitHub%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark0022&bg_color=0B1020&color=C7D2FE&line=6366F1&point=9CA8FF&area=true&hide_border=true&custom_title=Dhruv's%20GitHub%20Activity" width="95%"/>
 
 </a>
 
@@ -299,9 +299,9 @@ A security-focused project exploring automated vulnerability discovery and analy
 
 ### Contributions are the real telemetry.
 
-<a href="https://github.com/Darkf0022">
+<a href="https://github.com/Dark0022">
 
-<img src="https://ghchart.rshah.org/6366F1/Darkf0022" alt="Darkf0022 GitHub contribution chart" width="90%"/>
+<img src="https://ghchart.rshah.org/6366F1/Dark0022" alt="Dark0022 GitHub contribution chart" width="90%"/>
 
 </a>
 
@@ -310,65 +310,6 @@ A security-focused project exploring automated vulnerability discovery and analy
 `BUILD` &nbsp; `BREAK` &nbsp; `LEARN` &nbsp; `REPEAT`
 
 </div>
-
----
-
-# 🧭 SYSTEM PROFILE
-
-```yaml
-name: Dhruv
-username: Darkf0022
-education: ECE Student
-
-interests:
-  - Hardware
-  - Cybersecurity
-  - Hacking
-  - Artificial Intelligence
-  - Machine Learning
-  - Space Technology
-  - Systems
-
-languages:
-  - Python
-  - C
-  - C++
-
-building:
-  - AEGIS
-
-projects:
-  - Ryle
-  - Vulfund
-  - AEGIS
-
-mindset:
-  - Curious
-  - Experimental
-  - Build-first
-  - Systems-oriented
-  - Always-learning
-```
-
----
-
-# 🌠 BEYOND THE CODE
-
-Technology is only interesting to me because of what it enables.
-
-I'm drawn to things that make me ask:
-
-> **How does this work?**
-
-Then:
-
-> **What happens if I push it?**
-
-And finally:
-
-> **Can I build something better?**
-
-That's the mindset I want to carry from **ECE → cybersecurity → AI → hardware → space technology**.
 
 ---
 
