@@ -173,9 +173,9 @@ A security-focused project exploring automated vulnerability discovery and analy
 ### Contributions are the real telemetry.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Darkf0022/Darkf0022/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dark0022/Darkf0022/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Dark0022/Dark0022/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
