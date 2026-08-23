@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,go,rust&theme=dark"/>
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,anaconda,autocad,blender,cmake,linux,vscode,react,nodejs,docker,fastapi,vim&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,anaconda,autocad,discord,bots,blender,cmake,linux,vscode,react,nodejs,docker,fastapi,vim&theme=dark"/>
 
 </div>
 
